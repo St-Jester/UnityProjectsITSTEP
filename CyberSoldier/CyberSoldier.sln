@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSoldier.Plugins", "CyberSoldier.Plugins.csproj", "{5DE09E7C-14D0-5C52-EBB4-3744B31D521A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSoldier", "CyberSoldier.csproj", "{DE4BF6B9-DC34-ACBD-2767-39FCFA0BC339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSoldier.Editor.Plugins", "CyberSoldier.Editor.Plugins.csproj", "{A35F74D0-E825-D858-0F51-AD6897C06BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE09E7C-14D0-5C52-EBB4-3744B31D521A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE09E7C-14D0-5C52-EBB4-3744B31D521A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE09E7C-14D0-5C52-EBB4-3744B31D521A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE09E7C-14D0-5C52-EBB4-3744B31D521A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4BF6B9-DC34-ACBD-2767-39FCFA0BC339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4BF6B9-DC34-ACBD-2767-39FCFA0BC339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4BF6B9-DC34-ACBD-2767-39FCFA0BC339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4BF6B9-DC34-ACBD-2767-39FCFA0BC339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35F74D0-E825-D858-0F51-AD6897C06BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35F74D0-E825-D858-0F51-AD6897C06BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35F74D0-E825-D858-0F51-AD6897C06BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35F74D0-E825-D858-0F51-AD6897C06BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

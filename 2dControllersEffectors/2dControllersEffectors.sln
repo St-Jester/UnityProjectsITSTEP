@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dControllersEffectors", "2dControllersEffectors.csproj", "{04EC7AB9-D14F-DF3C-A9E7-F2B6F5E0E2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dControllersEffectors.Editor", "2dControllersEffectors.Editor.csproj", "{8BCB8725-4492-2BD1-23E5-7E26CFEA59C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EC7AB9-D14F-DF3C-A9E7-F2B6F5E0E2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EC7AB9-D14F-DF3C-A9E7-F2B6F5E0E2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EC7AB9-D14F-DF3C-A9E7-F2B6F5E0E2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EC7AB9-D14F-DF3C-A9E7-F2B6F5E0E2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCB8725-4492-2BD1-23E5-7E26CFEA59C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCB8725-4492-2BD1-23E5-7E26CFEA59C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCB8725-4492-2BD1-23E5-7E26CFEA59C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCB8725-4492-2BD1-23E5-7E26CFEA59C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
